@@ -5,7 +5,6 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
-`// preferably Telegram`
  **Mail:** `werserk@inbox.ru`
 
 [telegram]: https://t.me/werserk

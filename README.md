@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 I'm Max, I'm 18. \
-I'm a student of HSE FKN PMI. \
+I'm a student of HSE FCS AMI. \
 I'm mainly engaged in deep learning with computer vision, \
 but now I am also mastering other areas of IT: product management, front-end, machine learning. \
 Interested in projects, startups and hackathons related to medicine. \
